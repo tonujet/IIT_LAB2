@@ -1,5 +1,7 @@
 .env
 .idea/
 build/
+.vagrant/
 node_modules/
 package-lock.json
+*.log
