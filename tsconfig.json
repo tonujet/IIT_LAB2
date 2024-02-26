@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+
+        "rootDir": "src",
+        "outDir": "build",
+        "strict": true,
+        "lib": ["esnext"],
+        "module": "NodeNext",
+        "baseUrl": "src"
+    }
+}
